@@ -57,11 +57,11 @@ div.jumbotron{
   text-align: center;
 }
 
-div.jumbotron h1 {
+h1 {
   font-size: 60px;
 }
 
-div.jumbotron p{
+ p {
   font-size: 20px;
   padding-right: 40px;
   padding-left: 40px;
